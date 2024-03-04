@@ -1,6 +1,5 @@
 # FreeCAD
 
-[code]
 OS: Ubuntu 22.04.4 LTS (KDE/plasma)
 Word size of FreeCAD: 64-bit
 Version: 0.21.2.33771 (Git) AppImage
@@ -16,4 +15,3 @@ Installed mods:
   * ArchTextures
   * Assembly3 0.11.4
   * sheetmetal 0.2.63
-[/code]
